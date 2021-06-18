@@ -1,0 +1,200 @@
+ALGORITHM PARAMETERS
+------------------------------------------------------------------------------------------------------------------------------------------
+nRuns: 30
+generations: 30
+population: 1000
+maxDepth: 5
+maxNodes: 50
+minDepth: 3
+tournamentSize: 2
+nRecombinaitons: 1
+terminalRate: 0.2
+constantRate: 0.2
+islandPercentSize: 0.1
+probNodeSelection: 0.01
+branchMutationRate: 0.4
+nodeMutationRate: 0.4
+------------------------------------------------------------------------------------------------------------------------------------------
+
+ALGORITHM RUNS
+------------------------------------------------------------------------------------------------------------------------------------------
+Run: 0
+RMSE: 4.2647
+Model: (((c0)+(c0))+(1.525000))*(exp(0.800000))
+Execution time: 20 seconds
+
+
+Run: 1
+RMSE: 5.06481
+Model: ((exp(1.666667))*(c0))-(((0.682540)+(c0))+((c0)-(2.769231)))
+Execution time: 22 seconds
+
+
+Run: 2
+RMSE: 2.70491
+Model: ((8.000000)+(sin((sin(sin(((2.705882)-(c0))+((c0)+(0.831325)))))+(cos((c0)+(0.731343))))))+(((c0)-(0.898734))+((sin(c0))+((c0)/(0.278481))))
+Execution time: 21 seconds
+
+
+Run: 3
+RMSE: 4.97864
+Model: ((3.818182)/(cos((sin(sin(c0)))-(1.120000))))*(((1.826923)+(c0))/((c0)/(c0)))
+Execution time: 21 seconds
+
+
+Run: 4
+RMSE: 2.77665
+Model: ((4.000000)+(cos((c0)/(c0))))*((c0)*(sin(log10(41.500000))))
+Execution time: 19 seconds
+
+
+Run: 5
+RMSE: 3.95065
+Model: (((c0)+((c0)+(0.814815)))+(c0))+((cos(cos(((c0)+(c0))-(cos(c0)))))-(((c0)+(2.484848))+((log10(exp(c0)))+(sin(c0)))))
+Execution time: 23 seconds
+
+
+Run: 6
+RMSE: 7.14302
+Model: (c0)*((3.653846)+(cos(cos((2.042553)+(c0)))))
+Execution time: 22 seconds
+
+
+Run: 7
+RMSE: 6.54233
+Model: ((4.529412)*(c0))-(sin((sin(c0))-(sin(c0))))
+Execution time: 21 seconds
+
+
+Run: 8
+RMSE: 0.865737
+Model: (((c0)-((c0)-((0.527027)+(0.333333))))+(0.500000))*(exp(1.500000))
+Execution time: 21 seconds
+
+
+Run: 9
+RMSE: 6.23439
+Model: (cos(0.176471))+(((c0)/(0.696203))*((3.130435)*((c0)/(c0))))
+Execution time: 20 seconds
+
+
+Run: 10
+RMSE: 1.62145
+Model: ((1.259259)+(c0))*((c0)+(cos(log(0.425532))))
+Execution time: 21 seconds
+
+
+Run: 11
+RMSE: 5.65035
+Model: ((c0)-((log(0.166667))*((c0)+(c0))))-(log(0.166667))
+Execution time: 21 seconds
+
+
+Run: 12
+RMSE: 1.88951
+Model: ((c0)/(cos((3.062500)-(8.000000))))+(exp(exp(sin(cos(sin(c0))))))
+Execution time: 21 seconds
+
+
+Run: 13
+RMSE: 6.03622
+Model: (sin(1.512195))+(((11.000000)+(((((sin(9.666667))/((((c0)+(c0))+((c0)/(c0)))-(c0)))*(c0))/(((c0)-(c0))+((0.696970)*(c0))))*((c0)+(log10(exp(c0))))))*(log10(exp(c0))))
+Execution time: 23 seconds
+
+
+Run: 14
+RMSE: 11.397
+Model: ((exp(sin(c0)))+(c0))/(log10(1.740741))
+Execution time: 21 seconds
+
+
+Run: 15
+RMSE: 5.95502
+Model: (((c0)+(3.909091))+((c0)/(1.555556)))-(((c0)+(exp((c0)-(c0))))*((cos(2.194444))/(log(1.210526))))
+Execution time: 21 seconds
+
+
+Run: 16
+RMSE: 3.01277
+Model: (((c0)+(1.321429))*(4.357143))+(exp((c0)*(0.058824)))
+Execution time: 21 seconds
+
+
+Run: 17
+RMSE: 5.75734
+Model: ((((c0)/(c0))+(exp(0.475410)))/(log10(cos(1.177419))))*(((4.312500)/(c0))*((c0)+(c0)))
+Execution time: 21 seconds
+
+
+Run: 18
+RMSE: 6.24966
+Model: ((0.630435)+(((c0)+(c0))+(c0)))/(cos(sin((c0)/(c0))))
+Execution time: 21 seconds
+
+
+Run: 19
+RMSE: 5.70577
+Model: (10.000000)+((c0)+(((c0)+(c0))/(log10(4.000000))))
+Execution time: 21 seconds
+
+
+Run: 20
+RMSE: 5.9764
+Model: ((log(1.066667))-(((c0)*(0.400000))-(3.285714)))+((c0)*((1.396825)*(2.400000)))
+Execution time: 20 seconds
+
+
+Run: 21
+RMSE: 8.56011
+Model: ((c0)-(log10(0.548387)))+((0.578947)*(c0))
+Execution time: 21 seconds
+
+
+Run: 22
+RMSE: 3.15308
+Model: ((((c0)/((c0)*(c0)))*(((c0)+(exp(1.319149)))+(c0)))+(c0))*(sin(sin(sin(c0))))
+Execution time: 22 seconds
+
+
+Run: 23
+RMSE: 0.230949
+Model: (((c0)-(0.203704))/(0.222222))+((cos(sin(c0)))+(7.500000))
+Execution time: 20 seconds
+
+
+Run: 24
+RMSE: 0.80541
+Model: ((((c0)/(1.854167))+((c0)-(c0)))-((cos(((1.046154)*(c0))-((c0)/(c0))))-((7.545455)+(c0))))+((c0)/(0.336842))
+Execution time: 22 seconds
+
+
+Run: 25
+RMSE: 7.33426
+Model: ((c0)-((sin((c0)+((log(exp(((c0)*(c0))+(c0))))-((c0)*(c0)))))-((c0)*(c0))))*(exp(log(0.847826)))
+Execution time: 21 seconds
+
+
+Run: 26
+RMSE: 2.63487
+Model: (((c0)+((((c0)+(cos(cos((c0)/(c0)))))+(cos(cos(sin(1.333333)))))*(3.000000)))+((c0)/(1.709091)))+(cos((0.064516)/((cos(cos(1.173913)))+(c0))))
+Execution time: 22 seconds
+
+
+Run: 27
+RMSE: 7.83807
+Model: ((c0)-((c0)/((3.863636)-(cos(cos(c0))))))-(((sin((c0)-((c0)/((((((c0)/(0.187500))*(c0))/(c0))-(sin(sin((c0)*(c0)))))*(cos(sin(c0)))))))-(c0))*(3.863636))
+Execution time: 22 seconds
+
+
+Run: 28
+RMSE: 3.98925
+Model: log(exp((c0)+(((c0)+(c0))+((2.633333)*(c0)))))
+Execution time: 21 seconds
+
+
+Run: 29
+RMSE: 3.95411
+Model: (cos(((1.068966)-(c0))*(exp(c0))))+((((cos(((1.068966)-(c0))+(exp(c0))))-((((((c0)+(((c0)-((c0)/(log10(log(1.098039)))))+(1.867925)))/(cos(0.608247)))+(sin(c0)))/(cos(3.400000)))+(cos(c0))))/(cos(0.608247)))+(cos(c0)))
+Execution time: 22 seconds
+
+

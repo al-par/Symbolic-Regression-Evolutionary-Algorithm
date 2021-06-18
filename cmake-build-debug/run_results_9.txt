@@ -1,0 +1,201 @@
+ALGORITHM PARAMETERS
+------------------------------------------------------------------------------------------------------------------------------------------
+Input File: d1.csv
+nRuns: 30
+generations: 30
+population: 1000
+maxDepth: 10
+maxNodes: 400
+minDepth: 3
+tournamentSize: 3
+nRecombinaitons: 8
+terminalRate: 0.2
+constantRate: 0.2
+islandPercentSize: 0.1
+probNodeSelection: 0.01
+branchMutationRate: 0.8
+nodeMutationRate: 0.2
+------------------------------------------------------------------------------------------------------------------------------------------
+
+ALGORITHM RUNS
+------------------------------------------------------------------------------------------------------------------------------------------
+Run: 0
+RMSE: 5.82995
+Model: ((c0)+(exp(((cos(sin(sin(cos(c0)))))*(log10(log10(((1.800000)+(10.000000))-(cos(c0))))))+(cos(sin(cos((log(4.600000))+(exp(c0)))))))))/((exp(cos(2.705882)))*(sin(0.602151)))
+Execution time: 85 seconds
+
+
+Run: 1
+RMSE: 1.28482
+Model: ((((c0)+(c0))-((c0)/(log(log(1.952381)))))-(cos(c0)))+((cos(log10(0.592105)))/(sin(((exp(1.164706))*((sin(((c0)/(c0))/((4.550000)+(0.718750))))*(exp(((c0)+(1.137931))-(c0)))))/(c0))))
+Execution time: 98 seconds
+
+
+Run: 2
+RMSE: 4.9928
+Model: (exp(exp((c0)-(c0))))-((c0)/(log10(sin(cos(0.878788)))))
+Execution time: 100 seconds
+
+
+Run: 3
+RMSE: 7.45815
+Model: ((((c0)*(((exp((cos(c0))/(c0)))*((sin(cos(c0)))/((cos(c0))*(sin(0.535714)))))/(cos(exp(sin((0.754386)/(c0)))))))+(sin(c0)))+(((c0)-(sin(c0)))*(1.169231)))-(cos((c0)+(0.560440)))
+Execution time: 98 seconds
+
+
+Run: 4
+RMSE: 4.59443
+Model: ((1.100000)-(sin(cos(exp(cos(1.090909))))))/((0.252525)/((c0)-(sin(sin((exp(exp(5.714286)))+(((c0)+(c0))-((c0)-(c0))))))))
+Execution time: 96 seconds
+
+
+Run: 5
+RMSE: 0.868309
+Model: ((cos(sin((cos((((2.212121)+(0.968085))/((c0)+(c0)))/(cos(c0))))/(exp(c0)))))+(((c0)+(((((sin(c0))/(c0))+(c0))*(sin((sin(c0))+(sin(0.000000)))))*(log(exp(log((c0)/(c0)))))))-(cos((0.549020)+(((exp((6.428571)-(0.000000)))-(sin(log(7.272727))))+(sin((c0)*(exp(1.011905)))))))))*(exp(1.500000))
+Execution time: 113 seconds
+
+
+Run: 6
+RMSE: 2.59694
+Model: (((4.611111)*(c0))-(cos(sin((((c0)+(cos(c0)))+((cos(c0))/(sin(c0))))/(cos(c0))))))-((c0)-(((5.500000)-(exp(log(log10(1.102941)))))+((c0)/(1.141026))))
+Execution time: 98 seconds
+
+
+Run: 7
+RMSE: 0.712912
+Model: (((5.500000)-(c0))+(cos(sin((cos(log(2.615385)))-(cos(((cos(c0))+(log(0.578947)))*((cos(0.875000))*(sin(c0)))))))))+((5.500000)*(c0))
+Execution time: 98 seconds
+
+
+Run: 8
+RMSE: 5.33517
+Model: ((((exp(1.500000))*(c0))+(cos((cos((cos((c0)-(c0)))+(sin((c0)*(c0)))))/(((cos(cos(c0)))-(sin(cos(c0))))+((cos(log(cos(sin((c0)-(c0))))))+(cos(cos(c0))))))))-(c0))+((c0)+(cos((c0)-(c0))))
+Execution time: 102 seconds
+
+
+Run: 9
+RMSE: 4.40377
+Model: ((cos(cos(cos(log(cos(((log10(exp((cos(exp(c0)))/(cos(sin(0.492754))))))*(sin(c0)))+(log10(cos(log10(cos(cos(1.843137))))))))))))+(((c0)/(0.533333))/(0.736842)))+(((1.967742)+(c0))+(c0))
+Execution time: 97 seconds
+
+
+Run: 10
+RMSE: 6.19029
+Model: ((c0)+(exp(cos(sin(exp((cos(c0))+(((log10(11.857143))-(exp(c0)))/(log10((c0)*(c0))))))))))+((c0)+(c0))
+Execution time: 92 seconds
+
+
+Run: 11
+RMSE: 5.27023
+Model: (sin(1.593220))+((log(77.000000))*((c0)+(cos(((c0)/(sin(cos((0.607143)+(0.387097)))))/(((sin(sin(c0)))+(c0))*(((c0)*(3.785714))-((((cos(sin(c0)))/(exp(c0)))-(c0))*(c0))))))))
+Execution time: 165 seconds
+
+
+Run: 12
+RMSE: 3.3047
+Model: ((6.000000)*((0.733333)*((0.607143)+(c0))))+(log((c0)*(log10(exp((cos(c0))+((((log10(0.800000))-((0.166667)+(c0)))*((cos(c0))*(sin(c0))))+(c0)))))))
+Execution time: 177 seconds
+
+
+Run: 13
+RMSE: 5.26352
+Model: ((c0)/(log10(exp(c0))))*((((c0)+((cos(c0))+(c0)))-((cos(cos(c0)))/(c0)))+((0.666667)*(1.655172)))
+Execution time: 226 seconds
+
+
+Run: 14
+RMSE: 4.46451
+Model: ((((4.642857)*(sin((c0)/((cos((c0)-(2.461538)))+((c0)*(c0))))))*((((log(sin(sin(0.702128))))*(sin(c0)))*(log(cos(0.975904))))+(c0)))*((1.560000)+(c0)))+(cos(((1.111111)/(c0))+((2.821429)-(0.890000))))
+Execution time: 174 seconds
+
+
+Run: 15
+RMSE: 2.6423
+Model: (c0)*(exp((((c0)+(c0))/(cos(0.845361)))-(c0)))
+Execution time: 182 seconds
+
+
+Run: 16
+RMSE: 0.10399
+Model: (cos(log10(cos(sin(((cos(cos(sin(c0))))-((((1.022222)-(c0))-((c0)*(1.000000)))/((exp(c0))*((c0)/(c0)))))-(c0))))))+((4.875000)+((1.333333)+((c0)/(0.222222))))
+Execution time: 169 seconds
+
+
+Run: 17
+RMSE: 7.14051
+Model: ((((c0)+(c0))*(cos(cos((cos((c0)/(cos(sin(sin((c0)*(sin(sin(cos(c0))))))))))/((c0)-(exp(cos(cos(c0)))))))))+((c0)+(log10(exp(c0)))))+((c0)+(c0))
+Execution time: 173 seconds
+
+
+Run: 18
+RMSE: 5.23302
+Model: (((c0)/(cos(exp(((cos(c0))-(cos(c0)))+(log((1.041667)+(0.000000)))))))+((c0)+(1.363636)))/(cos(sin(cos(sin((cos((sin(c0))+(c0)))/(((cos(0.397590))-((15.000000)+(c0)))+((sin(c0))-(exp(1.540541)))))))))
+Execution time: 176 seconds
+
+
+Run: 19
+RMSE: 5.93248
+Model: ((c0)/(0.224490))-((cos((2.625000)+(cos(log((2.827586)+(sin((0.494737)/(c0))))))))+((sin(c0))-(cos(sin(((c0)*(c0))/(c0))))))
+Execution time: 179 seconds
+
+
+Run: 20
+RMSE: 3.55457
+Model: (7.875000)-(((cos((cos(((c0)/(cos(0.986111)))+(((cos((cos(((c0)*(cos(0.986111)))+(((c0)*(log(0.986111)))+(sin((sin(sin(log10((exp(((c0)-(c0))*((0.338462)/(c0))))-(((sin(c0))-(sin(0.975000)))/(c0))))))/(c0))))))+(log(3.000000))))-(c0))/(0.230769))))*(exp(c0))))-(c0))/(0.230769))
+Execution time: 170 seconds
+
+
+Run: 21
+RMSE: 0.606045
+Model: ((c0)/(1.057143))+((0.814433)+((c0)/(0.281690)))
+Execution time: 159 seconds
+
+
+Run: 22
+RMSE: 6.50024
+Model: (cos(((log(7.583333))/(c0))*((sin(((sin(c0))/(((c0)-(c0))+((c0)*(c0))))+((sin(cos(c0)))*(exp((c0)+(c0))))))/((((((exp(c0))+(0.180000))/(c0))/(c0))/(cos((cos(cos(c0)))+(cos(c0)))))-(((sin(cos(c0)))+((1.400000)-(sin(c0))))/(c0))))))+((c0)+(0.217391))
+Execution time: 182 seconds
+
+
+Run: 23
+RMSE: 1.33154
+Model: ((c0)+(sin(c0)))+(((3.000000)*((1.266667)+((sin(cos(12.428571)))+(c0))))+((cos((c0)/((1.142857)+(c0))))*(c0)))
+Execution time: 162 seconds
+
+
+Run: 24
+RMSE: 5.63129
+Model: (cos(cos((log(exp(((0.090909)+((c0)+(c0)))+(log10(exp(((0.090909)+((c0)+(0.449438)))+(((0.343434)/(c0))+(sin(c0)))))))))+((c0)+(sin((0.521127)+(1.062500)))))))+((c0)+(sin(cos(cos(1.367347)))))
+Execution time: 171 seconds
+
+
+Run: 25
+RMSE: 5.21647
+Model: (((1.101266)*(c0))+(((c0)+(cos(((((c0)-(c0))*((c0)-(c0)))/(cos(sin(c0))))*(log10(exp((cos(c0))+((c0)-(c0))))))))/(log10(exp(0.696970)))))-((sin(c0))/(exp(cos(c0))))
+Execution time: 176 seconds
+
+
+Run: 26
+RMSE: 6.74204
+Model: ((c0)-(((((cos(9.222222))*((exp(exp(0.538462)))*(c0)))-(sin((((29.500000)-(c0))+(c0))-((c0)+(sin(c0))))))+((c0)+((sin((1.120690)/(cos(sin(log(exp(cos(((0.846154)-(c0))*(exp(c0))))))))))/((4.466667)/(log10(sin(0.913043)))))))+(c0)))-(sin(log(cos(cos((log10(cos((c0)-(c0))))/(cos((exp(c0))*(log10(0.303030)))))))))
+Execution time: 200 seconds
+
+
+Run: 27
+RMSE: 1.37433
+Model: (exp((sin(cos(0.410526)))*(cos(((sin(6.300000))*(sin(sin(cos(c0)))))/(cos(cos(sin(c0))))))))+((((c0)*(((1.200000)-((c0)-((c0)-((2.050000)+(c0)))))/(log(exp(((c0)+(c0))+((0.111111)-(c0)))))))/(sin(sin(log10(0.596154)))))+((cos(exp((exp(log10(exp(0.663265))))*((((c0)/(c0))-((c0)+(c0)))/(cos((1.454545)*(c0)))))))-((c0)-(c0))))
+Execution time: 188 seconds
+
+
+Run: 28
+RMSE: 1.61985
+Model: (((((4.476190)*(c0))-(cos(((c0)-(2.071429))+((c0)*(c0)))))+((c0)/(((c0)*((exp(cos(c0)))*(cos(sin(c0)))))-(cos(((log10(exp(16.666667)))*(sin(c0)))/(c0))))))-(log(sin(0.266667))))+(3.300000)
+Execution time: 179 seconds
+
+
+Run: 29
+RMSE: 5.9033
+Model: (exp(0.937500))*(((cos(sin((((0.894737)-(c0))+(c0))*((0.190476)*(cos(sin(c0)))))))+(((c0)/(cos(cos(((c0)-(c0))+((6.666667)*(2.315789))))))-(exp(log(exp(((c0)/(c0))/(cos(2.360000))))))))-(sin(cos(c0))))
+Execution time: 154 seconds
+
+
